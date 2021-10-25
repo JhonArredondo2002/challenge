@@ -26,6 +26,8 @@ Una es la de salir que si se oprime en la pantalla de inicio simplemente cierra 
 cierra la aplicacion.
 La otra opcion abre una ventana emergente con los datos del creador y el lenguage en el cual fue programado.
 
+Junto a la aplicacion viene una imagen de formato .ico, esta imagen es el icono elegido para la aplicacion.
+
 
 
 
